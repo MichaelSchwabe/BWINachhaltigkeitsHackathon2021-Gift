@@ -1,5 +1,5 @@
 # IndustryDays2021-Gift
-From Michael and BWI with Love to all Participants
+From Michael with Love to all Participants
 
 ## DataSets:
 * DataSet 1 Intro:
